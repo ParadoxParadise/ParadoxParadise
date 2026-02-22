@@ -17,7 +17,6 @@ I bridge the gap between **Networking** and **Cybersecurity**, ensuring that sys
 - 🔭 Currently working on: **Network Automation (Python) & Active Directory Administration**
 - 🌱 Currently learning: **Advanced Routing, IaC (Ansible), and Cloud Security**
 - 💬 Ask me about: **UniFi Network optimization, SoftEther VPN, Wazuh SIEM, Windows Server/Linux Admin**
-- 📫 How to reach me: **[Your Email Here]**
 - ⚡ Fun fact: *I love diving into packet captures (PCAP) to solve mysterious network bottlenecks!*
 
 ---
