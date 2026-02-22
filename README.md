@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I am a final-year Information Security student at PTIT with a strong passion for building, optimizing, and securing enterprise IT infrastructure. My experience spans across network administration, system operations, and security monitoring. 
+I am a final-year Information Security student with a strong passion for building, optimizing, and securing enterprise IT infrastructure. My experience spans across network administration, system operations, and security monitoring. 
 
 I bridge the gap between **Networking** and **Cybersecurity**, ensuring that systems are not only highly available but also robustly defended against threats.
 
