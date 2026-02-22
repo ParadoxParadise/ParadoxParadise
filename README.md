@@ -1,23 +1,24 @@
-<h1 align="center">Hi there 👋, I'm Hùng (Systems & Network Engineer)</h1>
+<h1 align="center">Hi there 👋, I'm Hùng</h1>
 
-<h3 align="center">Cybersecurity Enthusiast | IT Infrastructure Builder | SOC Operations</h3>
+<h3 align="center">Systems & Network Engineer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ParadoxParadise&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a final-year Information Security student with a strong passion for building, optimizing, and securing enterprise IT infrastructure. My experience spans across network administration, system operations, and security monitoring. 
+I am an Information Security enthusiast with a strong passion for building, optimizing, and securing enterprise IT infrastructure. With practical exposure to network administration, IT support, and security operations, I bridge the gap between **Networking** and **Cybersecurity** to ensure systems are highly available and robustly defended.
 
-I bridge the gap between **Networking** and **Cybersecurity**, ensuring that systems are not only highly available but also robustly defended against threats.
-
-- 🔭 Currently working on: **Network Automation (Python) & Active Directory Administration**
-- 🌱 Currently learning: **Advanced Routing, IaC (Ansible), and Cloud Security**
-- 💬 Ask me about: **UniFi Network optimization, SoftEther VPN, Wazuh SIEM, Windows Server/Linux Admin**
-- ⚡ Fun fact: *I love diving into packet captures (PCAP) to solve mysterious network bottlenecks!*
+- 🎓 **Background:** Information Security & IT Infrastructure.
+- 💼 **Experience:** Hands-on network troubleshooting, system administration, and SOC operations preparation.
+- 🔭 **Currently working on:** Network Automation (Python) & Active Directory Administration.
+- 🌱 **Currently learning:** Advanced Routing, IaC (Ansible), and Cloud Security.
+- 💬 **Ask me about:** Network optimization, VPN deployments, SIEM, Windows Server/Linux Admin.
+- ⚡ **Fun fact:** *I love diving into packet captures (PCAP) to solve mysterious network bottlenecks!*
 
 ---
 
@@ -26,17 +27,17 @@ I bridge the gap between **Networking** and **Cybersecurity**, ensuring that sys
 **Networking & Infrastructure**
 <p>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubiquiti_(UniFi)-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPN_(IPsec/SoftEther)-FF4F00?style=for-the-badge&logo=openvpn&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPN_Solutions-FF4F00?style=for-the-badge&logo=openvpn&logoColor=white" />
 </p>
 
 **System Administration & Security**
 <p>
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Ubuntu/CentOS-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Wazuh_SIEM-00AEEF?style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/SIEM_Tools-00AEEF?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT_Security-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
 </p>
 
 **Scripting & Automation**
@@ -50,22 +51,22 @@ I bridge the gap between **Networking** and **Cybersecurity**, ensuring that sys
 
 ### 🔥 Featured Projects
 
-#### 🛡️ [IoT Security Monitoring with Wazuh & OpenCV](#) *(Graduation Project)*
-- **Description:** Designed and deployed a physical security monitoring system on a Raspberry Pi. Integrated facial recognition (OpenCV/Python) with Wazuh SIEM to detect unauthorized access and centralize security alerts.
-- **Technologies:** Python, Linux, Wazuh, OpenCV.
+#### 🛡️ [IoT Security & Access Monitoring](#)
+- **Description:** Designed and deployed a physical security monitoring system. Integrated computer vision (OpenCV/Python) with SIEM solutions to detect unauthorized access and centralize security alerts.
+- **Technologies:** Python, Linux, SIEM, OpenCV.
 
 #### ⚙️ [SysAdmin Automation Toolkit](#)
-- **Description:** A collection of PowerShell and Bash scripts built to automate daily administrative tasks, including Active Directory user extraction, service health checks, and log monitoring.
+- **Description:** A collection of PowerShell and Bash scripts built to automate daily administrative tasks, including directory service user extraction, service health checks, and log monitoring.
 - **Technologies:** PowerShell, Bash, Windows Server.
 
-#### 🌐 [Enterprise Network Diagnostics & Configs](#)
-- **Description:** Documentation and configuration templates for enterprise networking. Includes SoftEther VPN deployments, WiFi roaming optimization (Band Steering, Minimum RSSI), and international routing/packet loss analysis.
-- **Technologies:** TCP/IP, Routing/Switching, Network Diagnostics (Ping/Tracert/Netstat).
+#### 🌐 [Enterprise Network Diagnostics](#)
+- **Description:** Documentation and configuration templates for enterprise networking. Includes VPN deployments, WiFi roaming optimization, and international routing analysis.
+- **Technologies:** TCP/IP, Routing/Switching, Network Diagnostics.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParadoxParadise&theme=radical" alt="Hùng's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParadoxParadise&theme=radical" alt="GitHub Streak" />
 </p>
