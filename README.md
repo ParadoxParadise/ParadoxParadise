@@ -67,5 +67,5 @@ I bridge the gap between **Networking** and **Cybersecurity**, ensuring that sys
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParadoxParadise&show_icons=true&theme=radical" alt="Hùng's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParadoxParadise&theme=radical" alt="Hùng's GitHub Streak" />
 </p>
