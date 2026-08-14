@@ -18,7 +18,6 @@ I am an Information Security enthusiast with a strong passion for building, opti
 - 🔭 **Currently working on:** Network Automation (Python) & Active Directory Administration.
 - 🌱 **Currently learning:** Advanced Routing, IaC (Ansible), and Cloud Security.
 - 💬 **Ask me about:** Network optimization, VPN deployments, SIEM, Windows Server/Linux Admin.
-- ⚡ **Fun fact:** *I love diving into packet captures (PCAP) to solve mysterious network bottlenecks!*
 
 ---
 
