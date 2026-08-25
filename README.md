@@ -67,5 +67,5 @@ I am an Information Security enthusiast with a strong passion for building, opti
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ParadoxParadise&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParadoxParadise&theme=radical" alt="GitHub Profile Summary" />
 </p>
