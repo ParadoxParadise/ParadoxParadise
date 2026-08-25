@@ -16,7 +16,7 @@ I am an Information Security enthusiast with a strong passion for building, opti
 - 💼 **Experience:** Hands-on network troubleshooting, system administration, and SOC operations preparation.
 - 🔭 **Currently working on:** Network Automation (Python) & Active Directory Administration.
 - 🌱 **Currently learning:** Advanced Routing, IaC (Ansible), and Cloud Security.
-- 💬 **Ask me about:** Network optimization, VPN deployments, SIEM, Windows Server/Linux Admin.
+- 🎯 **Next Goals:** Expanding my horizons by learning Japanese and pursuing industry certifications to continually elevate my professional value.
 
 ---
 
