@@ -1,11 +1,10 @@
 <h1 align="center">I'm Paradise</h1>
 
-<h3 align="center">Systems & Network Engineer | Cybersecurity Enthusiast</h3>
-
 <p align="center">
-  <a href="mailto:hung.nguyen.sec@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/duc-hung-nguyen-a867473b2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=5000&pause=2000&color=00AEEF&center=true&vCenter=true&width=700&lines=E+quell%E2%80%99ossessione+fa+girare+il+sole+e+tutte+le+stelle." alt="Quote Typing Effect" />
 </p>
+
+<h3 align="center">Systems & Network Engineer | Cybersecurity Enthusiast</h3>
 
 ---
 
