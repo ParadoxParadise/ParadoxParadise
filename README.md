@@ -1,6 +1,10 @@
 <h1 align="center">I'm Paradise</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ParadoxParadise&label=Profile%20Views&color=00AEEF&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=5000&pause=2000&color=00AEEF&center=true&vCenter=true&width=700&lines=E+quell%E2%80%99ossessione+fa+girare+il+sole+e+tutte+le+stelle." alt="Quote Typing Effect" />
 </p>
 
@@ -66,5 +70,6 @@ I am an Information Security enthusiast with a strong passion for building, opti
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParadoxParadise&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParadoxParadise&theme=radical" alt="GitHub Profile Summary" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParadoxParadise&theme=radical" alt="Top Languages" width="48%" />
 </p>
